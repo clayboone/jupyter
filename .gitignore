@@ -1,8 +1,2 @@
 # vim backups
 *~
-
-# debug.log
-*/debug.log
-
-# checkpoint files aren't really needed. use git history.
-*/.ipynb_checkpoints
