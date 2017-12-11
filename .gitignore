@@ -1,5 +1,8 @@
-# Object file
-*.o
+# vim backups
+*~
 
-# Ada Library Information
-*.ali
+# debug.log
+*/debug.log
+
+# checkpoint files aren't really needed. use git history.
+*/.ipynb_checkpoints
