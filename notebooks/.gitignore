@@ -1,0 +1,5 @@
+# ipynb checkpoint files
+.ipynb_checkpoints
+
+# debug.log (it crashes sometimes and makes this)
+debug.log
